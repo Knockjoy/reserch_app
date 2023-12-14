@@ -5,4 +5,5 @@ https://github.com/Knockjoy/reserch_app/blob/main/license-103994496-3069242.pdf
 https://github.com/Knockjoy/reserch_app/blob/main/app-release.apk
 ## 使った技術
 Wifi-Aware
+
 位置情報
