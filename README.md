@@ -13,6 +13,13 @@ Wifi-Aware
 
 このアプリは自身で権限を設定してからアプリを再起動する必要があります。
 
+## 動作確認
+android developers より
+```kotlin
+    context.packageManager.hasSystemFeature(PackageManager.FEATURE_WIFI_AWARE)
+    
+```
+
 ## 対応機種
 ### 動作確認済み
 
