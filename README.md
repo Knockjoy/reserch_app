@@ -28,4 +28,5 @@ xperia 10 Ⅲ lite
 
 galaxy a7 (2018)
 
+adb emulator
  
